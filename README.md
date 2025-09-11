@@ -8,7 +8,7 @@ Daniel dos Santos da Silva - 10720767
 
 Enzo Ferroni - 10417100
 
-Fernanda Guanaes Arouca - 
+Fernanda Guanaes Aroca - 10730786
 
 Vinícius de Souza Sabiá - 10721475
 
