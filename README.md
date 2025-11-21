@@ -14,7 +14,7 @@ Vinícius de Souza Sabiá - 10721475
 
 ### 📌 Objetivo do Estudo
 
-O objetivo deste estudo é analisar o dataset de estatísticas individuais de jogadores da Premier League 2024/25 (FBRef).A partir do dataset disponibilizado no kabble buscamos identificar padrões de desempenho e fatores que influenciam a performance em campo.
+O objetivo deste estudo é analisar o dataset de estatísticas individuais de jogadores da Premier League 2024/25 (FBRef). A partir do dataset disponibilizado no kaggle buscamos identificar padrões de desempenho e fatores que influenciam a performance em campo.
 
 
 ### 🔗 Link do dataset
