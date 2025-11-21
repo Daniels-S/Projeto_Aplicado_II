@@ -21,3 +21,8 @@ O objetivo deste estudo é analisar o dataset de estatísticas individuais de jo
 
 [FBREF Premier league 2024/25 player stats](https://www.kaggle.com/datasets/siddhrajthakor/fbref-premier-league-202425-player-stats-dataset)
 
+
+
+### 🔗 Link do video de apresentação
+
+[Link](https://www.youtube.com/watch?v=_Lns3mSD3Bc)
